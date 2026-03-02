@@ -84,6 +84,4 @@ plot_components_plotly(model, forecast)
 * Visualizations aid decision-making and trend analysis
 
 
-
-If you want, I can also **add badges, a table of contents, and example plots** to make it look more professional on GitHub. Do you want me to do that?
 ```
