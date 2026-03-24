@@ -1,6 +1,3 @@
-Here’s a complete `README.md` based on your description:
-
-````markdown
 # Prophet-Based Time Series Forecasting
 
 ## Project Overview
